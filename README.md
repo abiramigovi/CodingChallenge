@@ -11,3 +11,7 @@ If only tap OFF record exists without tap ON record, the status is Incomplete an
 
 Input file is taps.csv
 Output file is Trips.csv
+
+## Running the Main Program
+
+This Java project includes a main program which takes the taps.csv as input
