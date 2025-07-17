@@ -15,3 +15,4 @@ Output file is Trips.csv
 ## Running the Main Program
 
 This Java project includes a main program which takes the taps.csv as input
+MainApplication.java
